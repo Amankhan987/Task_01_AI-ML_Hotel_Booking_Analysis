@@ -88,7 +88,7 @@ Task_01_AI_ML/
    ```
    streamlit run app/app.py
    ```
-   Live dashboard: [your-streamlit-link]
+   Live dashboard: https://khan-hotelbookinganalysis-m4hcvw26fs4byavnhowerk01.streamlit.app/
 
 ## Author
 
