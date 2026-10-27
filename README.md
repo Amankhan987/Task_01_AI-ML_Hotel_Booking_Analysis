@@ -76,8 +76,8 @@ Task_01_AI_ML/
 
 1. Clone the repository and open the folder:
    ```
-   git clone [your-repository-link]
-   cd [repository-name]
+   git clone https://github.com/Amankhan987/Task_01_AI-ML_Hotel_Booking_Analysis.git
+   cd Task_01_AI-ML_Hotel_Booking_Analysis
    ```
 2. Install the libraries:
    ```
